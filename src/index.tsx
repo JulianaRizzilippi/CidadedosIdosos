@@ -2000,6 +2000,7 @@ stls.width({ pass: { arrayValue: [jsvals.varReader({pass: {
           pathScreen:"home",
 
           styles:[
+        
 stls.backgroundColor({ pass: { arrayValue: [jsvals.j8({pass: {
           propertieValues: "#fff"
         }})] }}), 
@@ -2011,6 +2012,9 @@ stls.height({ pass: { arrayValue: [jsvals.varReader({pass: {
           path: jsvals.j8({pass: {
           propertieValues: "all.sizes.percent.100"
         }})
+        }})] }}), 
+stls.justifyContent({ pass: { arrayValue: ['center'] }}), stls.alignItems({ pass: { arrayValue: [jsvals.j8({pass: {
+          propertieValues: "center"
         }})] }})],
 
           screenElements:[() => {
