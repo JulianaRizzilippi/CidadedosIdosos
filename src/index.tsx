@@ -2158,56 +2158,16 @@ stls.borderRightWidth({ pass: { arrayValue: ['1px'] }}), stls.borderRightColor({
         jsvals.j8({pass: {
           propertieValues: {
         "name": jsvals.j8({pass: {
-          propertieValues: "Torta Holandesa MISS DAISY 470g"
-        }}), 
-        "image": jsvals.j8({pass: {
-          propertieValues: "https://firebasestorage.googleapis.com/v0/b/flaxboll.appspot.com/o/torta.png?alt=media&token=4daa4ce3-ca7d-45ec-a8b4-f4162e648368"
-        }}), 
-        "price": jsvals.j8({pass: {
-          propertieValues: "26,79"
-        }}), "amount": jsvals.j8({pass: {
-          propertieValues: "0"
-        }})}
-        }}), 
-        jsvals.j8({pass: {
-          propertieValues: {
-        "name": jsvals.j8({pass: {
-          propertieValues: "Requeijão Vigor"
-        }}), 
-        "image": jsvals.j8({pass: {
-          propertieValues: "https://firebasestorage.googleapis.com/v0/b/flaxboll.appspot.com/o/requeijao.png?alt=media&token=a15c2035-3ef5-4f14-a7c8-7d58dd7b1fc0"
-        }}), 
-        "price": jsvals.j8({pass: {
-          propertieValues: "6,59"
-        }}), "amount": jsvals.j8({pass: {
-          propertieValues: "0"
-        }})}
-        }}), 
-        jsvals.j8({pass: {
-          propertieValues: {
-        "name": jsvals.j8({pass: {
-          propertieValues: "Presunto Sadia 200g"
-        }}), 
-        "image": jsvals.j8({pass: {
-          propertieValues: "https://firebasestorage.googleapis.com/v0/b/flaxboll.appspot.com/o/presunto.png?alt=media&token=bc236340-c063-41c6-a98c-af1707cfe482"
-        }}), 
-        "price": jsvals.j8({pass: {
-          propertieValues: "9,60"
-        }}), "amount": jsvals.j8({pass: {
-          propertieValues: "0"
+          propertieValues: "José Ribeiro"
+        }}), "image": jsvals.j8({pass: {
+          propertieValues: "https://images.pexels.com/photos/3831569/pexels-photo-3831569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         }})}
         }}), jsvals.j8({pass: {
           propertieValues: {
         "name": jsvals.j8({pass: {
-          propertieValues: "Sorvete Kibon 800ml Ovomaltine"
-        }}), 
-        "image": jsvals.j8({pass: {
-          propertieValues: "https://firebasestorage.googleapis.com/v0/b/flaxboll.appspot.com/o/sorvete.png?alt=media&token=e3e69eb6-b7c6-4ee8-8c72-294417307398"
-        }}), 
-        "amount": jsvals.j8({pass: {
-          propertieValues: "0"
-        }}), "price": jsvals.j8({pass: {
-          propertieValues: "19,90"
+          propertieValues: "Samanta S."
+        }}), "image": jsvals.j8({pass: {
+          propertieValues: "https://images.pexels.com/photos/6196394/pexels-photo-6196394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         }})}
         }}) ]
         }}), 
@@ -2281,56 +2241,16 @@ stls.borderRightWidth({ pass: { arrayValue: ['1px'] }}), stls.borderRightColor({
         jsvals.j8({pass: {
           propertieValues: {
         "name": jsvals.j8({pass: {
-          propertieValues: "Torta Holandesa MISS DAISY 470g"
-        }}), 
-        "image": jsvals.j8({pass: {
-          propertieValues: "https://firebasestorage.googleapis.com/v0/b/flaxboll.appspot.com/o/torta.png?alt=media&token=4daa4ce3-ca7d-45ec-a8b4-f4162e648368"
-        }}), 
-        "price": jsvals.j8({pass: {
-          propertieValues: "26,79"
-        }}), "amount": jsvals.j8({pass: {
-          propertieValues: "0"
-        }})}
-        }}), 
-        jsvals.j8({pass: {
-          propertieValues: {
-        "name": jsvals.j8({pass: {
-          propertieValues: "Requeijão Vigor"
-        }}), 
-        "image": jsvals.j8({pass: {
-          propertieValues: "https://firebasestorage.googleapis.com/v0/b/flaxboll.appspot.com/o/requeijao.png?alt=media&token=a15c2035-3ef5-4f14-a7c8-7d58dd7b1fc0"
-        }}), 
-        "price": jsvals.j8({pass: {
-          propertieValues: "6,59"
-        }}), "amount": jsvals.j8({pass: {
-          propertieValues: "0"
-        }})}
-        }}), 
-        jsvals.j8({pass: {
-          propertieValues: {
-        "name": jsvals.j8({pass: {
-          propertieValues: "Presunto Sadia 200g"
-        }}), 
-        "image": jsvals.j8({pass: {
-          propertieValues: "https://firebasestorage.googleapis.com/v0/b/flaxboll.appspot.com/o/presunto.png?alt=media&token=bc236340-c063-41c6-a98c-af1707cfe482"
-        }}), 
-        "price": jsvals.j8({pass: {
-          propertieValues: "9,60"
-        }}), "amount": jsvals.j8({pass: {
-          propertieValues: "0"
+          propertieValues: "José Ribeiro"
+        }}), "image": jsvals.j8({pass: {
+          propertieValues: "https://images.pexels.com/photos/3831569/pexels-photo-3831569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         }})}
         }}), jsvals.j8({pass: {
           propertieValues: {
         "name": jsvals.j8({pass: {
-          propertieValues: "Sorvete Kibon 800ml Ovomaltine"
-        }}), 
-        "image": jsvals.j8({pass: {
-          propertieValues: "https://firebasestorage.googleapis.com/v0/b/flaxboll.appspot.com/o/sorvete.png?alt=media&token=e3e69eb6-b7c6-4ee8-8c72-294417307398"
-        }}), 
-        "amount": jsvals.j8({pass: {
-          propertieValues: "0"
-        }}), "price": jsvals.j8({pass: {
-          propertieValues: "19,90"
+          propertieValues: "Samanta S."
+        }}), "image": jsvals.j8({pass: {
+          propertieValues: "https://images.pexels.com/photos/6196394/pexels-photo-6196394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         }})}
         }}) ]
         }}) }
