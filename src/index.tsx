@@ -1937,7 +1937,197 @@ stls.justifyContent({ pass: { arrayValue: ['center'] }}), stls.alignItems({ pass
           screenElements:[(...args:any) => <Elements.ScrollBar pass={{
             styles: [],
             arrProps: [],
-            arrItems: [(...args:any) => <Elements.Watcher pass={{variable: [jsvals.j8({pass: {
+            arrItems: [
+        (...args:any) => <Elements.Watcher pass={{variable: [jsvals.j8({pass: {
+          propertieValues: "all.currCateg"
+        }})],childrenItems: [(...args:any) => <Elements.FlatList2 pass={{
+          elementProperties: [
+            
+        (...args:any) => props.horizontal({ pass: {
+          boolean: ['true']
+        }}), 
+        (...args:any) => props.ItemSeparatorComponent({ pass: {
+          component: [
+
+          (...args:any) => <Elements.DynView pass={{
+            elementsProperties:[{}],
+
+            styles:[
+stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
+          propertieValues: "20px"
+        }})] }}), 
+stls.justifyContent({ pass: { arrayValue: ['center'] }}), stls.alignItems({ pass: { arrayValue: [jsvals.j8({pass: {
+          propertieValues: "center"
+        }})] }})],
+
+            variablePath:[ ],
+
+            expectedVal:[ ],
+
+            childrenItems:[
+        
+
+          (...args:any) => <Elements.DynView pass={{
+            elementsProperties:[{}],
+
+            styles:[stls.width({ pass: { arrayValue: [jsvals.varReader({pass: {
+          path: jsvals.j8({pass: {
+          propertieValues: "all.sizes.fixed.10"
+        }})
+        }})] }})],
+
+            variablePath:[ ],
+
+            expectedVal:[ ],
+
+            childrenItems:[() =><></>],
+
+            args,
+          }}/>
+        , 
+        (...args:any) => <Elements.Text pass={{
+          arrProps: [
+            {}
+          ],
+
+          arrStyles: [
+            stls.color({ pass: { arrayValue: [jsvals.varReader({pass: {
+          path: jsvals.j8({pass: {
+          propertieValues: "all.colors.txtGrey9"
+        }})
+        }})] }})
+          ],
+
+          children: [
+            jsvals.j8({pass: {
+          propertieValues: "•"
+        }})
+          ],
+
+          args,
+
+        }}/>, 
+
+          (...args:any) => <Elements.DynView pass={{
+            elementsProperties:[{}],
+
+            styles:[stls.width({ pass: { arrayValue: [jsvals.varReader({pass: {
+          path: jsvals.j8({pass: {
+          propertieValues: "all.sizes.fixed.10"
+        }})
+        }})] }})],
+
+            variablePath:[ ],
+
+            expectedVal:[ ],
+
+            childrenItems:[() =><></>],
+
+            args,
+          }}/>
+        ],
+
+            args,
+          }}/>
+        ]
+        }}), (...args:any) => props.ListHeaderComponent({pass: {
+          component: [
+
+          (...args:any) => <Elements.DynView pass={{
+            elementsProperties:[{}],
+
+            styles:[
+        stls.width({ pass: { arrayValue: [jsvals.varReader({pass: {
+          path: jsvals.j8({pass: {
+          propertieValues: "all.sizes.fixed.20"
+        }})
+        }})] }}), stls.height({ pass: { arrayValue: [jsvals.varReader({pass: {
+          path: jsvals.j8({pass: {
+          propertieValues: "all.sizes.fixed.20"
+        }})
+        }})] }})],
+
+            variablePath:[ ],
+
+            expectedVal:[ ],
+
+            childrenItems:[() =><></>],
+
+            args,
+          }}/>
+        ]
+        }})
+          ],
+
+          pData: jsvals.j3({pass: {
+          arrayStrings: [
+        jsvals.j8({pass: {
+          propertieValues: "all."
+        }}), jsvals.varReader({pass: {
+          path: jsvals.j8({pass: {
+          propertieValues: "all.currCateg"
+        }})
+        }})],
+          joinSeparator: ""
+        }}),
+
+          itemElements: [
+            (...args:any) => <Elements.Pressable3 pass={{
+          elementProperties: [{}],
+
+          styles: [
+stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
+          propertieValues: "20px"
+        }})] }}), 
+stls.justifyContent({ pass: { arrayValue: ['center'] }}), stls.alignItems({ pass: { arrayValue: [jsvals.j8({pass: {
+          propertieValues: "center"
+        }})] }})],
+
+          childrenItems: [(...args:any) => <Elements.Text pass={{
+          arrProps: [
+            {}
+          ],
+
+          arrStyles: [
+            stls.color({ pass: { arrayValue: [jsvals.varReader({pass: {
+          path: jsvals.j8({pass: {
+          propertieValues: "all.colors.txtGrey9"
+        }})
+        }})] }})
+          ],
+
+          children: [
+            jsvals.argReader({pass: {
+          argPath: jsvals.j8({pass: {
+          propertieValues: "#0.0.item.name"
+        }}),
+          args
+        }})
+          ],
+
+          args,
+
+        }}/>],
+
+          pressableFunctions: [async (...args) =>
+        functions.setVar({ args, pass:{
+          keyPath: [jsvals.j8({pass: {
+          propertieValues: "all.currProds"
+        }})],
+          value: jsvals.argReader({pass: {
+          argPath: jsvals.j8({pass: {
+          propertieValues: "#0.0.item.name"
+        }}),
+          args
+        }})
+        }})],
+
+          args,
+        }}/>
+          ],
+
+          args,
+        }}/>],arrFuncs: [() => {}],args,}}/>, (...args:any) => <Elements.Watcher pass={{variable: [jsvals.j8({pass: {
           propertieValues: "all.currProds"
         }})],childrenItems: [(...args:any) => <Elements.FlatList2 pass={{
           elementProperties: [
